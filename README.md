@@ -15,3 +15,6 @@ These are my personal notes and are not official University of Warwick teaching 
 | Financial Econometrics | [link](./Financial_Econometrics_Short_Notes.pdf) |
 | Partial Differential Equations for Finance | [link](Partial_Differential_Equations.pdf) |
 | Advanced Trading Strategies | [link](./Advanced_Trading_Strategies_Short_Notes.pdf) |
+
+> [!NOTE]
+> The majority of the notes in this repository are written by me. In a few sections, I have used AI assistance to rephrase and refine the wording, while retaining the underlying concepts and understanding. This was done to ensure the content is original, avoid unintentional plagiarism, and prevent the reproduction of University-provided or copyrighted material.
