@@ -8,7 +8,7 @@ These are my personal notes and are not official University of Warwick teaching 
 
 | Module | PDF |
 | --- | --- |
-| Asset Pricing and Risk | [link](./Asset_pricing_and_Risk_Important_Topics.pdf) |
+| Asset Pricing and Risk | [link](./APR_Short_Notes.pdf) |
 | Applications of Stochastic Calculus | [link](ASCF_Lecture_Notes_25_26.pdf), [short notes](./ASCF_Short_Notes.pdf) |
 | Financial Econometrics | [link](./Financial_Econometrics_Short_Notes.pdf) |
 | Partial Differential Equations for Finance | [link](Partial_Differential_Equations.pdf) |
