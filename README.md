@@ -9,6 +9,7 @@ These are my personal notes and are not official University of Warwick teaching 
 | Module | PDF |
 | --- | --- |
 | Asset Pricing and Risk | [link](./APR_Short_Notes.pdf) |
+| Simulations and Machine Learning for Finance | [Link](./Simulations_Machine_Learning_Finance_Short_Notes.pdf) |
 | Programming for Quantitative Finance | [link](./PQF_Short_Notes.pdf) |
 | Financial Statistics | [link](./Financial_Statistics_Short_Notes.pdf) |
 | Applications of Stochastic Calculus | [link](ASCF_Lecture_Notes_25_26.pdf), [short notes](./ASCF_Short_Notes.pdf) |
